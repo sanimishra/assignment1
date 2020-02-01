@@ -1,0 +1,58 @@
+/*styling for the SAP*/
+
+#contents
+{
+  width: 50%;
+  margin: auto;
+  background-color: lightgrey;
+  border: 2px solid #000;
+  font-family: sans-serif;
+
+}
+#contents h1
+{
+    text-align: center;
+    background-color: #fff;
+    width: 50%;
+    margin: 25px auto;
+    border: 2px solid #000;
+    text-transform: uppercase;
+}
+#contents img
+{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+    padding: 10px;
+    background-color: #fff;
+    border: 2px solid #000;
+
+}
+#contents p
+{
+  text-align: center;
+  padding: 30px;
+
+}
+#contents a
+{
+
+  display: block;
+  box-sizing: border-box;
+  margin: 25px auto;
+  padding: 6px 10px;
+  text-align: center;
+  text-transform: none;
+  text-decoration: none;
+  text-indent: 0;
+  color: #000;
+  border: 2px solid #000;
+  background-color: #fff;
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+  width: 70%;
+  text-transform: uppercase;
+}
+
